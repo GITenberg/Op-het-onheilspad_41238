@@ -1,0 +1,34 @@
+_repo: Op-het-onheilspad_41238
+_version: 0.1.0
+alternative_title: The Danger Trail. Dutch
+contributor:
+  translator:
+    agent_name: Kroon, A. M.
+    gutenberg_agent_id: '41060'
+    url: http://www.gutenberg.org/2009/agents/41060
+covers:
+- cover_type: archival
+  image_path: 41238-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: ''
+gutenberg_issued: '2012-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41238'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest Territories -- Fiction'
+- !lcsh 'Hudson Bay Railway -- Fiction'
+- !lcc 'PS'
+title: Op het onheilspad
+url: http://www.gutenberg.org/ebooks/41238
